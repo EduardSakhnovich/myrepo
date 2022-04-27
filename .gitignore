@@ -1,0 +1,14 @@
+.vs/
+[Dd]ebug
+*.exe
+*.pdb
+*.tlog
+*.recipe
+*.ilk
+*.log
+*.obj
+*.idb
+*.pdb
+*.vcxproj
+*.filters
+*.user
