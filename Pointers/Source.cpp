@@ -15,7 +15,7 @@ int main()
 	std::cout << "pointsToInt points to age now" << std::endl;
 	std::cout << "Integer age at: 0x" << std::hex << pointsToInt << std::endl;
 	std::cout << "Variable age at: 0x" << std::hex << &age << std::endl;
-
+	//creating variable
 	int dogsAge = 9;
 	pointsToInt = &dogsAge;
 
