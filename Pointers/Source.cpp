@@ -62,11 +62,11 @@ int main()
 	//std::cin >> *pointsToAnAge;
 
 	////Displaying an adress where age is stored
-	//std::cout << "Input stored at 0x" << std::hex << pointsToAnAge << std::endl;
+	std::cout << "Input stored at 0x" << std::hex << pointsToAnAge << std::endl;
 
-	//std::cout << "*pointsToDogsAge="  << std:: dec << *pointsToAnAge << std::endl;
+	std::cout << "*pointsToDogsAge="  << std:: dec << *pointsToAnAge << std::endl;
 
-	//std::cout << "Integer dogsAge = " << std::dec << dogsAge << std::endl;
+	std::cout << "Integer dogsAge = " << std::dec << dogsAge << std::endl;
 
 	/*
 	* sizeof()
